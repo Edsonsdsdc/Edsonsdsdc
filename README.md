@@ -25,13 +25,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-souza-dos-santos-da-costa-246520215/)
 
 <!-- GithubStats -->
-![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonsdsdc&show_icons=true&theme=gotham)
-![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsdsdc&theme=blue-green)
+<div align="center">
+  
+![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonsdsdc&theme=darcula)
+![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsdsdc&theme=darcula)
+
+</div>
 
 <!-- GIF -->
 <p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJjNDd2aWpsaWdhbzR6YnRqNXpzd2R6bHk5eGJ1MmM1Y3R2czhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHLql3sQLamRO/giphy.gif" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJjNDd2aWpsaWdhbzR6YnRqNXpzd2R6bHk5eGJ1MmM1Y3R2czhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHLql3sQLamRO/giphy.gif" width="1000" height="380" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
 
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+
+  
   
 

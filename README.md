@@ -29,7 +29,9 @@
 ![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsdsdc&theme=blue-green)
 
 <!-- GIF -->
-<p align="left">
+<p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJjNDd2aWpsaWdhbzR6YnRqNXpzd2R6bHk5eGJ1MmM1Y3R2czhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHLql3sQLamRO/giphy.gif" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
 
   
 

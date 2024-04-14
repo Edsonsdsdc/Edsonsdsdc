@@ -30,6 +30,7 @@
 <div align="center">
   
 [![Edsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonsdsdc&theme=darcula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsdsdc&theme=darcula)](https://github.com/Edsonsdsdc/github-readme-stats)
 
 </div>
 ##

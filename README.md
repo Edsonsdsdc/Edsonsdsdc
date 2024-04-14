@@ -27,10 +27,12 @@
 
 ##
 <!-- GithubStats -->
+<div align="center">
   
-![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonsdsdc&theme=darcula)
-![dsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsdsdc&theme=darcula)
+![Edsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonsdsdc&theme=darcula)
+![Edsonsdsdc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonsdsdc&theme=darcula)
 
+</div>
 ##
 
 <!-- GIF -->

@@ -1,6 +1,6 @@
 <div align="center" width="1000">
 
-<img src="https://s4.ezgif.com/tmp/ezgif-4-deda1680c3.gif"  width="1000" height="200">
+<img src=""  width="1000" height="200">
 
 </div>
 

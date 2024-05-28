@@ -1,10 +1,3 @@
-<div align="center" width="1000">
-
-<img src=""  width="1000" height="200">
-
-</div>
-
-
 
 <!--título-->
 <div id="user-content-toc">

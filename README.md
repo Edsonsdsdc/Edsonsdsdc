@@ -22,7 +22,7 @@
 
 </details>
 
-## 📩 Contact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="35" height="50" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7F7F7&multiline=true&random=true&width=435&lines=Contact)](https://git.io/typing-svg)
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-souza-dos-santos-da-costa-246520215/)
 

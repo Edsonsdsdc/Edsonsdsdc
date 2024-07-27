@@ -1,4 +1,4 @@
-![Banner para Linkedin Tecnologia em Preto](https://github.com/user-attachments/assets/d5c194ec-419d-4c78-a371-d31ea3a5e411)
+![Banner para Linkedin Tecnologia em Preto (1)](https://github.com/user-attachments/assets/e0d1d56c-b727-42af-bd97-17183679ed84)
 
 <!--título-->
 <div>

@@ -1,8 +1,7 @@
+![Banner para Linkedin Tecnologia em Preto](https://github.com/user-attachments/assets/d5c194ec-419d-4c78-a371-d31ea3a5e411)
 
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+<div>
 </div>
 
 <!-- Presentation -->

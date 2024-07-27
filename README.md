@@ -40,14 +40,15 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJjNDd2aWpsaWdhbzR6YnRqNXpzd2R6bHk5eGJ1MmM1Y3R2czhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHLql3sQLamRO/giphy.gif" width="1000" height="380" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="35" height="50" /> Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
-  
-</div>
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</a>
+
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql," />
+</a>
 
 
   

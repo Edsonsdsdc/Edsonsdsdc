@@ -6,11 +6,10 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Edson Souza! A passionate web developer student from Brazil.
 
-  - 🌱 I am currently studying systems analysis and development at Faculdade Estacio de Sá
+- 🌱 I am currently studying systems analysis and development at Faculdade Estacio de Sá
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with the development of large websites.
+- 🔭 I'm looking for my first job opportunity. My dream is to one day work with the development of large websites.
 </p>
 
 <!-- Dropdown -->

@@ -50,6 +50,10 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql," />
 </a>
 
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,windows" />
+</a>
 
   
   

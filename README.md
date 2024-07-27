@@ -47,7 +47,7 @@
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql," />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,bootstrap" />
 </a>
 
 ### Tools and Platforms
